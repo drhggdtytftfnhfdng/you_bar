@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color:rgb(243, 243, 203) ;
+    padding-bottom: 50px;
+}
+.div_ul_li li{
+margin-left: 96px;
+list-style: none;
+cursor: pointer;
+font-size: 18px;
+color: #1d3a59;
+font-weight: 1000;
+font-family: 'DM Sans', sans-serif;
+}
+.div_ul_li li:hover{
+    color: rgb(103, 146, 160);
+}
+.header img{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.seat_section li{
+    margin-left: 100px;
+    list-style:none;
+}
+.seat_section ul{
+display: flex;
+margin-top: 300px;
+}
+.seat_section p{
+    color: #1d3a59;
+    font-size: 19px;
+    font-weight: 700;
+}
+.seat_section h1{
+    color: #1d3a59;
+    font-size: 39px;
+    font-weight: 900;
+    padding-top: 50px;
+}
+
+footer{
+    background-color:rgb(247, 175, 93) ;
+    padding: 100px;
+}
+.footer{
+
+display: flex;
+}
+.div_ul_li_one ul {
+    margin-top: 20px;
+    display: flex;
+}
+.div_ul_li_one a{
+    color: #1d3a59;
+    text-decoration: none;
+}
+.div_ul_li_one li{
+    display: flex;
+    margin-left: 96px;
+    list-style: none;
+    cursor: pointer;
+    font-size: 18px;
+    color: #1d3a59;
+    font-weight: 1000;
+    font-family: 'DM Sans', sans-serif;
+}
+.div_ul_li_one a:hover{
+    color: rgb(103, 146, 160);
+}
+.div_ul_li_one a{
+    text-decoration: none;
+}
+.sec-1{
+    background-image: url(img/1614399211_28-p-temno-svetlo-sinii-fon-36.jpg);
+    width: 1920px;
+    height: 1080px;
+}
+.but-1{
+    background-color: #1d3a59;
+    width: 140px;
+    height: 60px;
+    margin-left: 900px;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+.but-1:hover{
+    background-color: gray;
+}
+.but-1 p{
+    color: #fff;
+}
+.but-1 a{
+    text-decoration: none;
+}

@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color:rgb(243, 243, 203) ;
+    padding-bottom: 50px;
+}
+.div_ul_li a{
+text-decoration: none;
+}
+.div_ul_li li{
+margin-left: 96px;
+list-style: none;
+cursor: pointer;
+font-size: 18px;
+color: #1d3a59;
+font-weight: 1000;
+font-family: 'DM Sans', sans-serif;
+}
+.div_ul_li li:hover{
+    color: rgb(103, 146, 160);
+}
+.header img{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.search_travel{
+    background-image: url(img/1614399211_28-p-temno-svetlo-sinii-fon-36.jpg);
+    height: 1000px;
+}
+.input_div_li{
+    font-size: 26px;
+    font-family: 'DM Sans', sans-serif;
+}
+.input_div_li li{
+    list-style: none;
+    margin-bottom: 40px;
+}
+.input_div_li ul{
+    margin-top: 100px;
+    margin-left: 900px;
+}
+.input_div_li input{
+    width: 250px;
+    height: 50px;
+}
+.input_div_li button{
+width: 100px;
+height:50px;
+border-radius: 30px;
+cursor: pointer;
+background-color: #a2c8f0
+}
+
+footer{
+    background-color:rgb(247, 175, 93) ;
+    padding: 100px;
+}
+.footer{
+display: flex;
+}
+.div_ul_li_one ul {
+    margin-top: 20px;
+    display: flex;
+}
+.div_ul_li_one a{
+    color: #1d3a59;
+    text-decoration: none;
+}
+.div_ul_li_one li{
+    display: flex;
+    margin-left: 96px;
+    list-style: none;
+    cursor: pointer;
+    font-size: 18px;
+    color: #1d3a59;
+    font-weight: 1000;
+    font-family: 'DM Sans', sans-serif;
+}
+.div_ul_li_one a:hover{
+    color: rgb(103, 146, 160);
+}

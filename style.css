@@ -1,0 +1,352 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color:rgb(243, 243, 203) ;
+    padding-bottom: 50px;
+}
+.div_ul_li a{
+    text-decoration: none;
+}
+.div_ul_li li{
+margin-left: 96px;
+list-style: none;
+cursor: pointer;
+font-size: 18px;
+color: #1d3a59;
+font-weight: 1000;
+font-family: 'DM Sans', sans-serif;
+}
+.div_ul_li li:hover{
+    color: rgb(103, 146, 160);
+}
+.header img{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.div div{
+    background-image: url(img/1637742284_71-sanada-club-p-kemer-gori-73.jpg);
+}
+.search {
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+
+.searchTerm {
+    width: 200px;
+    border: 3px solid rgb(151, 151, 124);
+    border-right: none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+}
+.fa_fa-search img{
+    width: 25px;
+}
+.searchTerm:focus {
+    color: rgb(31, 72, 206);
+}
+.searchButton {
+    width: 40px;
+    height: 36px;
+    border: 1px solid rgb(182, 165, 139);
+    background: rgb(154, 175, 167);
+    text-align: center;
+    color: #eeeeee;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+.wrap {
+    position: relative;
+    top: 50px;
+    left: 50px
+}
+.goal h1,p{
+font-family: 'DM Sans', sans-serif;
+}
+.goal{
+    text-align: center;
+}
+.goal p{
+    text-align: center;
+    font-weight: 600;
+    color: #1d3a59;
+}
+.section{
+    margin-top: 100px;
+}
+.slogan h1,p{
+    font-family: 'DM Sans', sans-serif;
+}
+.slogan p{
+    font-weight: 600;
+    color: #1d3a59;
+}
+.slogan{
+    text-align:center;
+} 
+.feedback{
+ margin-left: 50px;
+}
+.div_tur{
+    background-image: url(img/1614399211_28-p-temno-svetlo-sinii-fon-36.jpg);
+    height: 1000px;
+}
+.section_div ul{
+    margin-left: 700px;
+    margin-top: 30px;
+}
+.section_div p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.section_div p:hover{
+    cursor: pointer;
+    color: rgb(143, 114, 33);
+}
+.section_div li:hover{
+    cursor: pointer;
+    color: rgb(143, 114, 33);
+}
+.section_div{
+    
+    font-family: 'DM Sans', sans-serif;
+}
+.section_div li{
+    font-size: 20px;
+    margin-top: 10px;
+    list-style: none;
+}
+.input_div h1{
+text-align: center;
+margin-top: 60px;
+font-weight: 1000;
+font-size: 20;
+color: #1d3a59;
+font-family: 'DM Sans', sans-serif;
+}
+.input_div_li{
+    margin-top: 100px;
+   margin-left: 800px;
+}
+.input_div_li li{
+    margin-top: 50px;
+    list-style: none;
+}
+.input_div_li li input{
+    width: 300px;
+    height: 20px;
+}
+.li_1{
+    position: relative;
+    right: 30px;
+}
+.li_2{
+    position: relative;
+    right: 100px; 
+}
+.input_div_li button{
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rebeccapurple;
+    cursor: pointer;
+    
+}
+.input_div_li p{
+    color: #c6d6e6;
+    font-weight: 1000;
+    font-size: 20;
+}
+.sell_hotel{
+    margin-top: 200px;
+}
+.sell_hotel p{
+    text-align: center;
+    color: #1d3a59;
+    font-weight: 1000;
+    font-size: 30px;
+}
+.flex_div ul{
+    margin-top: 100px;
+    display: flex;
+}
+.flex_div li{
+margin-left: 100px;
+    list-style: none;
+}
+.flex_div li button{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:purple;    
+    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+}
+.flex_div h1{
+font-family: 'DM Sans', sans-serif;
+}
+.flex_div{
+    margin-left: 150px;
+}
+.mail{
+margin-top: 200px;
+}
+.mail h1{
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    color: #1d3a59;
+    font-weight: 1000;
+}
+.mail ul{
+    margin-top: 50px;
+}
+.mail li{
+    margin-top: 50px;
+    margin-left: 800px;
+    list-style: none;
+
+}
+.mail button{
+    margin-left: 50px;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: rebeccapurple;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+}
+.mail input{
+    width: 300px;
+    height: 20px;
+    font-family: 'DM Sans', sans-serif;
+}
+.footer{
+    margin-top: 200px;
+    background-color:rgb(247, 175, 93) ;
+    padding: 100px;
+}
+.footer{
+display: flex;
+}
+
+.div_ul_li ul{
+    margin-top: 20px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
